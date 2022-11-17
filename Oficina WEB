@@ -1,0 +1,100 @@
+https://stackblitz.com/ - site parecido com  o VSCode
+https://getbootstrap.com/
+
+Tecla F12 = debugar.
+
+Conteudo aprendido na OFICIA WEB 17/11/2022 - Rec'n Play
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+    head, ul, li, nav, section, h1{
+        color: aliceblue;
+    }
+</style>
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <title>Oficina de HTML e CSS do Porto Digitla</title>
+  </head>
+  <body background="https://static.vecteezy.com/ti/vetor-gratis/p3/1987871-abstrato-preto-listras-diagonal-fundo-gratis-vetor.jpg">
+  <nav class="navbar navbar-expand-lg bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Pricing</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown link
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">dropdown</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<section class="container">
+    <div class="row">
+        <div class="col-8">
+                <h1>Oficina WEB</h1>
+                <p>brune wayne <strong>batman</strong></p>
+        </div>
+
+        <div class="col-4">
+            <img src="https://www.einerd.com.br/wp-content/uploads/2017/01/03-Batman-Bruce-Wayne.jpg" class="img-fluid rounded-5" alt="menino da caverna" title="menino da caverna" />
+            <!--Prourar leitor de tela-->
+        </div>
+    </div>
+</section>
+
+<br>
+<br>
+
+<section class="container mt-5 mb-5">
+    <div class="row">
+        <div class="col-6">
+            <div class="col-4">
+                <img src="https://img2.sfilm.hu/original/cXjxClTB6gHpXtRPHZw4bgCN7jK.jpg" class="img-fluid rounded-5" alt="menino da caverna" title="menino da caverna" />
+                <!--Prourar leitor de tela-->
+            </div>
+
+    <div class="col-6">
+        <h1>Oficina WEB</h1>
+        <p>simpsons <strong>avengers</strong></p>
+</div>
+    </div>
+</section>
+
+<footer class="bg-light"> <!--bg = background-->
+    <p class="text-center">Speak with me for here and sand me a PIX!</p>
+</footer>
+
+  </body>
+</html>
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdata-hackers%2Fparte-01-bootstrap-com-o-dash-conhecendo-o-dash-bootstrap-component-ae89ac91284b&psig=AOvVaw0CUYF7Z6looyI54x5Fg5Cb&ust=1668790739328000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLD9-IzYtfsCFQAAAAAdAAAAABAD
+azure for students
+http://www.escoladotrabalhador.gov.br/cursos/
+palestrante - cynthia zanoni reactor
+
+
